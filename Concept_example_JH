@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<!DOCTYPE concept
+  PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'dtd1.2/technicalContent/dtd/concept.dtd'>
+  
+<concept id="sample_concept" xml:lang="en-US">
+    <title>Googlob</title>
+    <shortdesc>The Glooglob is the new up and coming thing! It is a new material that is used as an adhesive used to keep things together</shortdesc>
+    <conbody>
+        <p>Some rules to follow is that the Glooglob is toxic to the mouth and no one under the age of 12 should operate without adult supervision. Before use, hydrate the glooglob with water.  After applied to the substance, leave the Glooglob for 24 to harden.</p>
+        <p>Glooglob was created in 1984 in a basement where creator, Jimmy John accidently poured glue into a jar of jelly. At first, he though nothing of his new creation. But when he was walking back upstairs he dropped the jar and it did not shatter. He was in shock but he relized that it was the creation that kept the jar in one piece.  </p>
+        <p>Customers were amazed by how well the product worked. Reviews have come back overwhelming positive and how well it works.</p>
+    </conbody>
+</concept>
