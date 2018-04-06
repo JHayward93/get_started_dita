@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'dtd1.2/technicalContent/dtd/task.dtd'>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<task id="changeoil" xml:lang="en-us">
+    <title>Creating the Glooglob</title>
+    <shortdesc>How to create the Glooglob</shortdesc>
+    <taskbody>
+        <context>the procedure on how what to use to make the Glooglob<p>The most important thing is
+                to keep the Glooglob hydrated. If it hardens it has no use.</p></context>
+        <steps>
+            <stepsection>To create the Glooglob:</stepsection>
+            <step>
+                <cmd>Take one liter of glue and pour it into a bowl</cmd>
+            </step>
+            <step>
+                <cmd>let the glue settle for best results</cmd>
+            </step>
+            <step>
+                <cmd>Take one package of store bought jelly.</cmd>
+            </step>
+            <step>
+                <cmd>Pour half of the jar into the bowl. .</cmd>
+            </step>
+            <step>
+                <cmd>Stir the bowl  until fully mixed.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the rest into the bowl and mix.</cmd>
+            </step>
+            <step>
+                <cmd>Let the mix settle.</cmd>
+            </step>
+            <step>
+                <cmd>Once ready, apply water to substance before use.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
