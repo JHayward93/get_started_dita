@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC 
+'-//OASIS//DTD DITA Reference//EN' 
+  'dtd1.2/technicalContent/dtd/reference.dtd'>
+  
+<!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
+
+<reference id="troubleshooting" xml:lang="en-US">
+    <title>Glooglob Features</title>
+    <shortdesc>What awesome things Glooglob can do for you</shortdesc>
+    <refbody>
+        <section id="out-of-memory-error"><title>Adhesive</title>Never have to worry about normal
+            glue again :<ol>
+                <li>Once wet, it can be placed anywhere.</li>
+                <li>Once dried, will stick to almost any surface.</li>
+            </ol></section>
+        <section id="java-io-exception">
+            <title>Cleanup </title>
+            <p>Glooglob doesnt make a mess and doesnt leave any remains on any material. If Glooglob
+                dries out, pour water on it to remove from surface. </p>
+            <p>Glooglob is non-toxic to the touch of skin so it can easily be removed if there is an
+                accident.This problem occurs when HTML files unrelated to the current transformation
+                are found in the output directory. Delete the content of the output directory and
+                run the transformation again.</p>
+        </section>
+        <section id="unsupported-class-version-error">
+            <title>Why should I use Glooglob</title>
+            <p>Glooglob dries clear so it is perfect for shattered  objects. form the object however
+                you like and use the Glooglob as the adhesive and after 24 hours of drying the
+                shattered object will look like new.  </p>
+            <p>Once Glooglob dries, it becomes extremely study and can be used as suport for a table
+                or shelf. </p>
+            <p>DO NOT USE WATER AROUND GLOOGLOB. IF WATER TOUCHES GLOOGLOB IT WILL CHANGE INTO ITS
+                LIQUID STATE.</p>
+        </section>
+    </refbody>
+</reference>
